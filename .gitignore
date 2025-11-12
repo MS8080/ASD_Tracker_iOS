@@ -1,0 +1,93 @@
+# Sensitive files and directories
+.ssh/
+.aws/
+.config/
+.gnupg/
+
+# Shell history (may contain sensitive commands/passwords)
+.bash_history
+.zsh_history
+.python_history
+.lesshst
+
+# Personal/System directories
+Library/
+Desktop/
+Documents/
+Downloads/
+Pictures/
+Movies/
+Music/
+Applications/
+Public/
+
+# Large development directories
+node_modules/
+venv/
+ai-env/
+.gem/
+.cargo/
+.rustup/
+.npm/
+.gradle/
+.m2/
+.rbenv/
+.cache/
+
+# IDE and project directories (keep your projects separate)
+IdeaProjects/
+PycharmProjects/
+CLionProjects/
+PyCharmMiscProject/
+STM32Cube/
+STM32CubeIDE/
+ai-projects/
+first-repo/
+go/
+
+# Temporary and system files
+.Trash/
+.DS_Store
+*.log
+.sleep
+.wakeup
+
+# Cloud storage
+iCloud Drive (Archive)/
+
+# Package files
+package-lock.json
+
+# Tools and configs that may contain sensitive data
+.BurpSuite/
+.cups/
+.local/
+.wget-hsts
+.gitconfig
+.bash_profile
+.bashrc
+.zshrc
+.zshenv
+.profile
+.viminfo
+.CFUserTextEncoding
+
+# Other development tools
+.vcpkg/
+.vcpkg-clion/
+.swiftpm/
+.stm32cubeide/
+.stm32cubemx/
+.stmcube/
+.stmcufinder/
+.scenebuilder/
+.vscode/
+.jupyter/
+.ipython/
+.matplotlib/
+.nuget/
+.gemini/
+.claude.json
+.claude.json.backup
+.claude/
+Prism/
